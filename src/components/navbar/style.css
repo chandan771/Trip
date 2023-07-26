@@ -1,0 +1,6 @@
+li a:hover {
+  background: #1e88e5;
+  background: linear-gradient(to right, #1e88e5 0%, #4fc3f7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
